@@ -22,7 +22,7 @@ body{
     align-items: center;
     justify-content: space-between;
     min-width:800px;
-    min-height:700
+    min-height:700px;
 }
 #signUp{
     height: 100%;
